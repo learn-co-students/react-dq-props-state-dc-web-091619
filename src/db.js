@@ -18,3 +18,5 @@ var offspring = [
 
 
 export default offspring
+
+/* <BabyHog key={bhog.id} name={bhog.name} hobby={bhog.hobby} eyeColor={this.state.eyeColor} /> */
